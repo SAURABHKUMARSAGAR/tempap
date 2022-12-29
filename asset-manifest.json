@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SAURABHKUMARSAGAR/tempap/static/css/main.ceb4adfb.css",
+    "main.js": "/SAURABHKUMARSAGAR/tempap/static/js/main.f139f6dc.js",
+    "index.html": "/SAURABHKUMARSAGAR/tempap/index.html",
+    "main.ceb4adfb.css.map": "/SAURABHKUMARSAGAR/tempap/static/css/main.ceb4adfb.css.map",
+    "main.f139f6dc.js.map": "/SAURABHKUMARSAGAR/tempap/static/js/main.f139f6dc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ceb4adfb.css",
+    "static/js/main.f139f6dc.js"
+  ]
+}
